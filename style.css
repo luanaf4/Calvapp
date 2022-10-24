@@ -28,3 +28,26 @@ h1{
     margin: auto;
 }
 
+input{
+    width: 75%;
+    margin: auto;
+    background-color: #088808;
+    padding: 2%;
+    border-radius: 25px;
+    border: 0;
+}
+
+input::placeholder {
+    color: #333030;
+}
+
+button{
+    width: 20%;
+    padding: 1%;
+    border-radius: 25px;
+    color: white;
+    background-color: #872C2C;
+    border: 0;
+    margin: auto;
+    cursor: pointer;
+}
